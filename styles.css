@@ -1,0 +1,319 @@
+/* title text */
+.H {
+  font-family: 'Lato', sans-serif;
+  font-size: 50px;
+  margin: 150px 0 20px 5%;
+}
+
+.any {
+  position: absolute;
+  font-family: 'Lato', sans-serif;
+  font-size: 50px;
+  margin: 170px 0 0 90px;
+}
+
+.R {
+  position: absolute;
+  font-family: 'Lato', sans-serif;
+  font-size: 50px;
+  margin: 340px 0 0 90px;
+}
+
+/* navbar */
+.navbar {
+  padding: 5px 0 20px 0;
+}
+
+.navbar-dark {
+  background: transparent;
+}
+
+.navbar-brand {
+  font-family: 'Lato', sans-serif;
+  margin-left: 2.5%;
+  color: #041C32 !important;
+}
+
+.nav-item {
+  margin: 0 30px;
+}
+
+.nav-link {
+  color: gray !important;
+  margin-top: 30px;
+}
+
+.nav-link:hover {
+  color: #35858B !important;
+}
+
+.navbar-toggler {
+  color: #35858B !important;
+}
+
+.navbar-toggler:hover {
+  color: white !important;
+  background: #35858B !important;
+}
+#Jer {
+  padding-left: 20rem;
+  text-align: center;
+}
+
+/* title section */
+
+.picc {
+  margin-bottom: 40px;
+}
+
+/* media query */
+
+ @media (max-width:1024px){
+
+.H {
+  text-align: center;
+}
+.image5 {
+  margin-left: -43px;
+}
+.fasbookread {
+  margin-left: 9rem;
+}
+.card12 {
+  margin-left: 11.3rem;
+}
+#Jer {
+  padding-left: 0rem;
+  text-align: left;
+}
+}
+
+@media (max-width: 600px) {
+
+  .card12 {
+  margin-left: 0rem;
+  }
+  .fasbookread {
+    margin-left: 0rem;
+  }
+}
+
+
+
+
+/* .image5 {
+  margin-left: 3.5rem;
+} */
+
+/* font */
+li {
+  font-family: 'Montserrat', sans-serif;
+}
+
+.chavez {
+  font-family: 'Montserrat', sans-serif;
+  background: transparent;
+  border: transparent;
+}
+
+.chavez:hover {
+  color: #35858B;
+}
+
+/* dowbload button */
+.fab:hover {
+  color: #35858B;
+}
+
+.buttonl {
+  margin: 4% 1% 0% 28%;
+}
+
+.button2 {
+  margin: 4% 0 0 0;
+}
+
+/* 4title pictures */
+.igris {
+  /* transform: rotate(-25deg); */
+  position: absolute;
+  height: 150px;
+  width: 75px;
+  margin: -70px 0 0 115px;
+}
+
+.igris1 {
+  /* transform: rotate(-25deg); */
+  position: absolute;
+  height: 150px;
+  width: 75px;
+  margin: -100px 0 0 195px;
+}
+
+.igris3 {
+  /* transform: rotate(-25deg); */
+  position: absolute;
+  height: 150px;
+  width: 75px;
+  margin: -100px 0 0 35px;
+}
+
+.igris2 {
+  /* transform: rotate(-25deg); */
+  position: absolute;
+  height: 150px;
+  width: 75px;
+  margin: -70px 0 0 275px;
+}
+
+.sung {
+  /* transform: rotate(-25deg); */
+  position: absolute;
+  height: 150px;
+  width: 75px;
+  margin: -100px 0 0 355px;
+}
+.image5 {
+  padding-left: 73.5px;
+}
+
+/* feature */
+#features {
+  margin-top: 480px;
+  background: #072227;
+  margin-bottom: 100px;
+}
+
+.text-feat {
+  color: white;
+  margin: 20px 0 0 0;
+}
+
+.text-ture {
+  color: gray;
+}
+
+.features {
+  padding: 100px 60px 80px 60px;
+}
+
+.icon3 {
+  color: white;
+  margin-top: 70px;
+}
+
+.icon3:hover {
+  color: #35858B;
+}
+
+/* testimonial section*/
+#testimonials {
+  text-align: center;
+  background-color: White;
+  color: black;
+    font-family: 'Montserrat', sans-serif;
+}
+
+.sword {
+  width: 70px;
+  height: 70px;
+  border-radius: 100%;
+  margin: 30px;
+}
+
+.carousel-item {
+  padding-left: 15%;
+  padding-right: 15%;
+}
+
+.carousel-dark:hover {
+  color: #35858B;
+}
+
+/* press section */
+#press {
+  background-color: white;
+  text-align: center;
+  padding-bottom: 4.5rem;
+  padding-top: 3rem;
+}
+
+.Press-img {
+  margin: 50px 20px 20px 20px;
+  border-radius: 15%;
+}
+
+/* pricing section */
+
+#pricing {
+  background-color: #04293A;
+  color: black;
+  text-align: center;
+  padding: 5rem 3rem 8rem 3rem;
+}
+.priceP {
+  color: white;
+  font-family: 'Lato', sans-serif;
+  font-size: 3.5rem;
+}
+.pricep {
+  color: grey;
+}
+.card {
+  height: 290px;
+  width: 280px;
+  margin-left: 2.4rem;
+  margin-top: 3rem;
+  font-family: 'Lato', sans-serif;
+}
+.card-title {
+    color: #072227;
+    font-size: 3.5rem;
+    padding-top: 1rem;
+}
+.pricingbot {
+    text-align: center;
+    font-family: 'Montserrat', sans-serif;
+    height: 40px;
+    width: 200px;
+}
+.pricingbot:hover {
+  color: #35858B;
+}
+.pitem {
+    font-family: 'Montserrat', sans-serif;
+}
+
+/* cta section */
+#cta {
+    background-color: #064663;
+      color: white;
+      text-align: center;
+      padding: 5rem 3rem 5rem 3rem;
+}
+.ctah3 {
+  font-size: 3.5rem;
+  padding-bottom: 2.5rem;
+}
+.button3 {
+  margin-left: .5rem;
+}
+/* footer section */
+#footer {
+  background-color: white;
+    color: black;
+    text-align: center;
+    padding: 4rem 3rem;
+}
+.credits {
+  color: grey;
+}
+.socmed {
+  padding-bottom: 1rem;
+  text-align: center;
+}
+.soc {
+  padding-left: 1rem;
+  color: #04293A;
+
+}
